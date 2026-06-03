@@ -2,31 +2,32 @@
 
 PT-BR | [EN](README.en.md)
 
-Desenvolvedor de Software | Java, Spring, React | Saude Digital
+Desenvolvedor Full Stack | Java, Spring Boot, React/Next.js | Saude Digital
 
 ## Sobre
 Desenvolvedor de Software com experiencia em manutencao e evolucao de sistemas corporativos para saude.
 
-Atuo principalmente com Java, Spring, React e SQL, com foco em qualidade de codigo, performance e entrega continua de valor.
+Atuo principalmente com Java, Spring Boot, React/Next.js e SQL, com foco em qualidade de codigo, performance e entrega continua de valor.
 
-Tenho vivencia em integracoes via APIs REST, trabalho colaborativo com code review e apoio em fluxos digitais voltados a jornada do paciente.
+Tenho vivencia em integracoes via APIs REST, HL7 e DICOM/PACS, trabalho colaborativo com code review (Gerrit) e apoio em fluxos digitais voltados a jornada do paciente.
 
 ## Experiencia Atual
-**Touch Health - Desenvolvedor de Software (Remoto)**  
+**Touch Health (Touch Tecnologia) - Desenvolvedor de Software (Remoto)**  
 Nov/2023 - Atual
 
-- Evolucao e manutencao de sistemas corporativos para saude.
+- Evolucao e manutencao de sistemas corporativos para saude (ecossistema VeDocs/inTouch).
 - Implementacao de melhorias e novas funcionalidades em backend e frontend.
-- Integracoes com APIs REST e suporte a cenarios de interoperabilidade.
+- Integracoes com APIs REST, HL7 e DICOM/PACS em cenarios de interoperabilidade.
 - Correcao de bugs, refatoracoes e melhoria de desempenho.
+- Apoio em autenticacao e seguranca com OIDC/Keycloak.
 
 ## Stack Principal
-- Backend: Java, Spring Boot, JPA, Liquibase, REST, Node.js, Express
-- Frontend: React, JavaScript, HTML, CSS
-- Banco de Dados: PostgreSQL, Oracle, MySQL
-- DevOps e Sistemas: Docker, Ansible, Linux
-- Ferramentas: Git, GitHub, Gerrit, Jira, Confluence, Notion, VS Code, IntelliJ IDEA, DBeaver, GitHub Copilot
-- Metodologias: Scrum, SOLID
+- Backend: Java, GraalVM, Spring Boot, Spring Security, JPA, Liquibase, REST, Groovy, Spock, Node.js, Express
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Material UI
+- Banco de Dados: PostgreSQL, Oracle, MySQL, Redis
+- DevOps e Sistemas: Docker, Ansible, Jenkins, Linux, Nginx, Apache HTTP Server
+- Ferramentas: Git, GitHub, Gerrit, Jira, Confluence, Notion, VS Code, IntelliJ IDEA, DBeaver, SonarQube, Swagger/OpenAPI, GitHub Copilot
+- Metodologias: Scrum, SOLID, CI/CD, Testes automatizados (Spock, Vitest, Cypress)
 
 ## Formacao
 - Bacharelado em Tecnologia da Informacao (UNIVESP) - em andamento
