@@ -1,11 +1,11 @@
 # Gustavo Luche
 
-Full Stack Software Developer | Java, Spring Boot, React/Next.js | Digital Health
+Full Stack Software Developer | Java, Spring Boot, React | Digital Health
 
 ## About
 Software Developer with hands-on experience in maintaining and evolving enterprise systems for healthcare.
 
-I mainly work with Java, Spring Boot, React/Next.js, and SQL, focusing on code quality, performance, and continuous value delivery.
+I mainly work with Java, Spring Boot, React, and SQL, focusing on code quality, performance, and continuous value delivery.
 
 I also have practical experience with REST API, HL7, and DICOM/PACS integrations, collaborative development through code reviews (Gerrit), and digital workflows related to the patient journey.
 
@@ -21,7 +21,7 @@ Nov/2023 - Present
 
 ## Core Stack
 - Backend: Java, GraalVM, Spring Boot, Spring Security, JPA, Liquibase, REST, Groovy, Spock, Node.js, Express
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Material UI
+- Frontend: React, TypeScript, JavaScript, HTML, CSS, Material UI
 - Databases: PostgreSQL, Oracle, MySQL, Redis
 - DevOps and Systems: Docker, Ansible, Jenkins, Linux, Nginx, Apache HTTP Server
 - Tools: Git, GitHub, Gerrit, Jira, Confluence, Notion, VS Code, IntelliJ IDEA, DBeaver, SonarQube, Swagger/OpenAPI, GitHub Copilot
