@@ -2,12 +2,12 @@
 
 PT-BR | [EN](README.en.md)
 
-Desenvolvedor Full Stack | Java, Spring Boot, React/Next.js | Saude Digital
+Desenvolvedor Full Stack | Java, Spring Boot, React | Saude Digital
 
 ## Sobre
 Desenvolvedor de Software com experiencia em manutencao e evolucao de sistemas corporativos para saude.
 
-Atuo principalmente com Java, Spring Boot, React/Next.js e SQL, com foco em qualidade de codigo, performance e entrega continua de valor.
+Atuo principalmente com Java, Spring Boot, React e SQL, com foco em qualidade de codigo, performance e entrega continua de valor.
 
 Tenho vivencia em integracoes via APIs REST, HL7 e DICOM/PACS, trabalho colaborativo com code review (Gerrit) e apoio em fluxos digitais voltados a jornada do paciente.
 
@@ -23,7 +23,7 @@ Nov/2023 - Atual
 
 ## Stack Principal
 - Backend: Java, GraalVM, Spring Boot, Spring Security, JPA, Liquibase, REST, Groovy, Spock, Node.js, Express
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Material UI
+- Frontend: React, TypeScript, JavaScript, HTML, CSS, Material UI
 - Banco de Dados: PostgreSQL, Oracle, MySQL, Redis
 - DevOps e Sistemas: Docker, Ansible, Jenkins, Linux, Nginx, Apache HTTP Server
 - Ferramentas: Git, GitHub, Gerrit, Jira, Confluence, Notion, VS Code, IntelliJ IDEA, DBeaver, SonarQube, Swagger/OpenAPI, GitHub Copilot
